@@ -1,4 +1,0 @@
-app.py
-model.pkl
-requirements.txt
-matplotlib
